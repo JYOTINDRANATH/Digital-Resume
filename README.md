@@ -1,2 +1,2 @@
 # Digital-Resume
-Config files for my GitHub profile.
+Assignment of training "PYTHON BASICS AND BEYOND"
